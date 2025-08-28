@@ -8,7 +8,7 @@ I'm interested in machine learning and data analysis. Graduated from the Data Sc
 
 I’m currently learning algorithms and data structures. Also take part in pet-projects.
 
-My telegram: <a href="https://t.me/alexeykainov" target="_blank">alexeykai</a>
+My telegram: <a href="https://t.me/alexeykainov" target="_blank">alexeykainov</a>
 
 **My stack**
 
